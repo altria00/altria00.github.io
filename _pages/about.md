@@ -13,4 +13,6 @@ I am currently a Master's student at the Institute of Computing Technology, Chin
 
 My research combines deep learning–based detection frameworks with efficient feature representation and multi-scale modeling techniques, with the goal of advancing practical applications in intelligent remote sensing analysis.
 
+More information will be added soon.
+
 📧 **Email:** wangyun24s@ict.ac.cn
